@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            ComplexLY's Blog 2
-tagline:          'OMHacker作业'
+title:            Blog 2
+tagline:          'ComplexLY的OMHacker作业'
 description:      '已经有个hexo博客了，这个是为了交作业'
 url:              http://homework.complexly.me
 baseurl:          /
