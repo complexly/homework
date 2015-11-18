@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            OMHacker作业
+title:            ComplexLY's Blog 2
 tagline:          'OMHacker作业'
 description:      '已经有个hexo博客了，这个是为了交作业'
 url:              http://homework.complexly.me
@@ -20,10 +20,6 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/complexly/homework
 
 kramdown:
   input:GFM
