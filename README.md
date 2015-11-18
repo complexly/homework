@@ -1,1 +1,1 @@
-由于之前有个hexo的博客（http://blog.complexly.me）了，单纯fork了一个jekyll的模板交作业。
+由于之前有个hexo的博客（http://blog.complexly.me ）了，单纯fork了一个jekyll的模板交作业。
