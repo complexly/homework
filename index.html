@@ -14,7 +14,14 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    <div class="entry">
+      {{ post.content | split: '<!--more-->' | first }}
+      <p>
+        <a href="{{ post.url }}/#more" class="more-link btn">
+          <span class="readmore">阅读全文 »</span>
+        </a>
+      </p>
+    </div>
   </div>
   {% endfor %}
 </div>
